@@ -1,0 +1,1 @@
+This repository demonstrates a common Python bug: a `ZeroDivisionError` that can occur when calculating the average of an empty list. The `bug.py` file shows the erroneous code, while `bugSolution.py` provides a corrected version that handles the edge case of an empty list gracefully.
